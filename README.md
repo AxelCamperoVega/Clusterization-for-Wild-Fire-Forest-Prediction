@@ -118,4 +118,4 @@ https://projects.iq.harvard.edu/files/cs288/files/madagascar_fires.pdf
 
 
 
-![image](https://github.com/AxelCamperoVega/Clusterization-for-Wild-Fire-Forest-Prediction/assets/43591999/a9e9a14e-3b8e-451e-abd2-eb3a68a1f0b9)
+
